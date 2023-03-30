@@ -1,8 +1,4 @@
-/*
- * File: _printf.c
- * Auth: Brennan D Baraban
- *       Michael Klein
- */
+
 
 #include "main.h"
 

@@ -1,7 +1,4 @@
-/*
- * File: base_converters.c
- * Auth: Brennan D Baraban
- */
+
 
 #include "main.h"
 
